@@ -1,0 +1,10 @@
+{
+    "display_name": "🎭 페르소나·모델 퀵스위치",
+    "loading_order": 1,
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Custom",
+    "version": "2.1.0",
+    "homePage": "https://github.com/DenBzs/Persona-Quick-List",
+    "auto_update": false
+}
